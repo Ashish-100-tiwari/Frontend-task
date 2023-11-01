@@ -1,0 +1,15 @@
+.Main-bar{
+    display: flex;
+    flex-direction: row;
+    // justify-content:space-between;
+    // border: 2px solid red;
+    
+}
+#center-page{
+    width:100vw;
+    // border: 2px solid red;
+    >strong{
+        font-size: 1.5rem;
+        margin-left: 2rem;
+    }
+}
